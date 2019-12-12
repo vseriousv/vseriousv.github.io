@@ -4,6 +4,8 @@
   "start_url": "/",
   "display": "standalone",
   "short_name": "PWAtest",
+  "background_color": "#278FE5",
+  "theme_color": "blue",
   "icons": [
     {
       "src": "\/android-icon-36x36.png",
