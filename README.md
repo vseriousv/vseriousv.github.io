@@ -1,1 +1,0 @@
-# vseriousv.github.io
